@@ -1,0 +1,13 @@
+grade = 89
+#-------------------------------------------
+if grade >= 90:
+  print("A...for great")
+elif grade >= 80:
+  print("B...for amazing")
+elif grade >= 70:
+  print("C...for not bad")
+elif grade >= 60:
+  print("D... for try harder")
+else:
+  print("F...for shit")
+#------------------------------------------
